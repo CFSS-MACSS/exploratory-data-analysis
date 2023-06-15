@@ -1,6 +1,7 @@
 # load required packages
 library(tidyverse)
 library(rcis)
+library(hexbin)
 
 # view header of the dataset
 scorecard
